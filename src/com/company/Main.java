@@ -18,7 +18,8 @@ public class Main {
             }
         }
 
-
+// Test message
+        
         public static void main(String[] args) {
             Scanner scr = new Scanner(System.in);
             System.out.println("Enter array length: ");
